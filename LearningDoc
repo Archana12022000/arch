@@ -1,0 +1,9 @@
+Git Tutorial
+
+Git -- tool to track the files.
+Git hub is a web site to store files in cloud.
+
+Git 
+  *add - Add the file to git to track.
+  *commit - Save the changes made in file in Git.
+  *push - add the updated file to git repository
