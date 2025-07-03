@@ -10,4 +10,5 @@ Git
   *clone - clones the repo in local
   *git config --global user.email archureigns1225@gmail.com
   *git config --global user.name Archana
-  *git commit -m "Commit message"
+  *git commit -m "Commit message" --- saves the changes made in file
+  *git push- push the changes made in local to git repo
