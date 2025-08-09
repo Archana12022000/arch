@@ -21,3 +21,6 @@ ssh key --> ssh-keygen -t rsa -b 4096 -c "mailId"
   *git checkout -b branchName -- to create new branch 
   *git switch branch name
   *git init -b branch name to initialize git with new branch
+
+  *git diff - to see the changes made in the untracked files before adding the file to staging 
+  *git diff --staged - to see the changes made in file which is in staged directory
