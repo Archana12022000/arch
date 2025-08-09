@@ -9,10 +9,14 @@ Git
   *push - add the updated file to git repository
   *clone - clones the repo in local
   *git config --global user.email archureigns1225@gmail.com
-  *git config --global user.name Archana
+  *git config --global user.name Archana (Need not be same as in git hub)
   *git commit -m "Commit message" --- saves the changes made in file
   *git push- push the changes made in local to git repo
 ssh key --> ssh-keygen -t rsa -b 4096 -c "mailId" 
  -t rsa //ED25519 -- type of encryption 
  -b 4096 -- strength 
  -c git hub mail id 
+ 
+  *git branch --- to know the available branches
+  *git checkout -b branchName -- to create new branch 
+  *git switch branch name
