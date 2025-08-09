@@ -20,3 +20,4 @@ ssh key --> ssh-keygen -t rsa -b 4096 -c "mailId"
   *git branch --- to know the available branches
   *git checkout -b branchName -- to create new branch 
   *git switch branch name
+
