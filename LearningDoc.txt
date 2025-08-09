@@ -15,4 +15,4 @@ Git
 ssh key --> ssh-keygen -t rsa -b 4096 -c "mailId" 
  -t rsa //ED25519 -- type of encryption 
  -b 4096 -- strength 
- -c git hub mail id 
+ -c git hub mail id   
